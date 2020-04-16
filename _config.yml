@@ -2,18 +2,5 @@ theme: jekyll-theme-minimal
 title: Welcome to the BioData Society Website!
 description: A Website for the BioData Society at Anglia Ruskin University
 
-social-network-links:
-  email: "biodatasociety@outlook.com"
-  facebook: https://www.facebook.com/groups/212560306589350/
-  github: https://github.com/BioDataSoc/BioDataSoc.github.io
-  twitter: https://twitter.com/aru_biodata
-  
-share-links-active:
-  twitter: true
-  facebook: true
-  
-url-pretty: "BioDataSoc.github.io"
-
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
+twitter_username: aru_biodata
+github_username:  BioDataSoc
