@@ -1,37 +1,46 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/BioDataSoc/BioDataSoc.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![Image](docs/Bio-DataSoc.jpeg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+```print('Hello World!)```
 
-### Markdown
+We are society for those who want to learn more about where biology and programming intersect.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
+### Goals and Aims
 
-```markdown
-Syntax highlighted code block
+Whilst we are still in the "setting up" period as well as being in the middle of the biggest pandemic in recent memory, we don't have any events booked and ready to go. But what we have planned include:
 
-# Header 1
-## Header 2
-### Header 3
+- Team greets - many of the current members of the society are those on a flagship Bioinformatics Apprenticeship in 
+association with institutes such as: The Sanger Institute, Illumina, Eagle Genomics, GSK and KyMab. 
+To honor this we are planning to get a member of each team in to talk what, why and how they do their job.
 
-- Bulleted
-- List
+- Talks - as well as the above talks and chats, we would also love to start getting academics involved to 
+talk about their current work, why it is important as well as speculate on the future applications of their work.
 
-1. Numbered
-2. List
+- Study help sessions - Everyone has their strengths and weaknesses whether they know it or not. 
+These sessions will exist as a way to "Bring everyone up to speed", whether they are a programmer 
+who wants to learn biology or vice versa.
 
-**Bold** and _Italic_ and `Code` text
+- Program Jam - Programming is similar to learning a new language, and like learning a new language you need to
+ exercise that skill regularly to keep it in shape. These Program Jams will involve an exercise that will be 
+ voted on and can be worked in groups or solo (although we suggest groups as collaborative programming is a skill
+  essential for professionals).
 
-[Link](url) and ![Image](src)
-```
+- Training materials - Be a small hub for training materials via our GitHub which will be completed open source.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
+### The Team - 2020
+Being the first team of the BioData Society we are all keep to make a splash, 
+so if you have any ideas or concerns you can contact us at: biodatasociety@outlook.com
 
-### Jekyll Themes
+- President: Damon-Lee Pointon
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BioDataSoc/BioDataSoc.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+- Finance:          Cieran Lundy
+- Finance Deputy:   David Mungalah
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+- Administrator:    Saffron MacLeod-Burrows
+- Admin Deputy:     Beth Sampher
+---
