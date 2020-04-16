@@ -22,7 +22,7 @@ talk about their current work, why it is important as well as speculate on the f
 These sessions will exist as a way to "Bring everyone up to speed", whether they are a programmer 
 who wants to learn biology or vice versa.
 
-- Program Jam - Programming is similar to learning a new language, and like learning a new language you need to
+- Program Jam (Gram-Jam?)- Programming is similar to learning a new language, and like learning a new language you need to
  exercise that skill regularly to keep it in shape. These Program Jams will involve an exercise that will be 
  voted on and can be worked in groups or solo (although we suggest groups as collaborative programming is a skill
   essential for professionals).
