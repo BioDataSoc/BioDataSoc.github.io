@@ -54,4 +54,4 @@ You can contact us by visiting:
 - [Twitter](https://twitter.com/aru_biodata)
 - [ARU Society Page](https://www.angliastudent.com/socs/25414/)
 
-Or simply emailing us at: biodatasociet@outlook.com
+Or simply emailing us at: biodatasociety@outlook.com
