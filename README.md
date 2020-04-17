@@ -36,7 +36,7 @@ so if you have any ideas or concerns you can contact us at: biodatasociety@outlo
 
 
 - Finance:          Cieran Lundy
-- Finance Deputy:   David Mungalah
+- Finance Deputy:   David Munglah
 
 
 - Administrator:    Saffron MacLeod-Burrows
