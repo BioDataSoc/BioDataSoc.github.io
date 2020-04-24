@@ -6,7 +6,7 @@ We are society for those who want to learn more about where biology and programm
 
 ---
 ### Goals and Aims
-Whilst we are still in the "setting up" period as well as being in the middle of the biggest pandemic in recent memory, we don't have any events booked and ready to go. But what we have planned include:
+Whilst we are still in the "setting up" period as well as being in the middle of the biggest pandemic in recent memory, we don't have any events booked or ready to go. But, what we have planned include:
 
 - Team greets - many of the current members of the society are those on a flagship Bioinformatics Apprenticeship in 
 association with institutes such as: The Sanger Institute, Illumina, Eagle Genomics, GSK and KyMab. 
@@ -25,7 +25,7 @@ who wants to learn biology or vice versa.
  voted on and can be worked in groups or solo (although we suggest groups as collaborative programming is a skill
   essential for professionals).
 
-- Training materials - Be a small hub for training materials via our GitHub which will be completed open source.
+- Training materials - Be a small hub for training materials via our GitHub which will be completely open source.
 
 ---
 ### The Team - 2020
