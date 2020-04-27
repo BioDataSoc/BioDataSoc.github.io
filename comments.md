@@ -1,7 +1,6 @@
 ---
 title: "Comments"
 layout: page
-permalink: comments.md
 ---
 
 ### General Comments
