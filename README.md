@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: page
-permalink: /README.md
+permalink: /
 ---
 
 ![Image](docs/Bio-DataSoc.jpeg)
