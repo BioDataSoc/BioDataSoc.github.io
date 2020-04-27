@@ -1,3 +1,9 @@
+---
+title: "Home"
+layout: page
+permalink: README.md
+---
+
 ![Image](docs/Bio-DataSoc.jpeg)
 
 ```print('Hello World!)```
