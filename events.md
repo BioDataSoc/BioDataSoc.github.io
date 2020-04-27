@@ -1,8 +1,3 @@
----
-title: "Events"
-layout: page
----
-
 ### Events 
 
 Educational events make the back bone of this society, on this page we will tell you all who, what, where and when these will take place. 
