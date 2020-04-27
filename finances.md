@@ -1,7 +1,6 @@
 ---
 title: "Finances"
 layout: page
-permalink: finances.md
 ---
 
 ### Finances
