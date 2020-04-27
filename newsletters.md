@@ -1,7 +1,6 @@
 ---
 title: "Newsletter"
 layout: page
-permalink: newsletters.md
 ---
 
 # Welcome to the BioData Society Newsletter/blog
