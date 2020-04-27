@@ -1,3 +1,9 @@
+---
+title: "Comments"
+layout: page
+permalink: /
+---
+
 ### General Comments
 
 We all need to acknowledge our achievements, this could be anything
