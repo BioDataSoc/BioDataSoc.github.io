@@ -1,8 +1,3 @@
----
-title: "Newsletter"
-layout: page
----
-
 # Welcome to the BioData Society Newsletter/blog
 This bi-monthly newsletter we hope will be a place to inform everyone of upcoming events,  which wil be posted on this website as
  well as emailed (if you are signed up to the mailing list).
