@@ -4,3 +4,21 @@ description: A Website for the BioData Society at Anglia Ruskin University
 
 twitter_username: aru_biodata
 github_username:  BioDataSoc
+
+---
+title: "Events and Plans"
+layout: page
+permalink: events.md
+---
+title: "News and Updates"
+layout: page
+permalink: newsletters.md
+---
+title: "Finances"
+layout: page
+permalink: finances.md
+---
+title: "Comments and Extras"
+layout: page
+permalink: comments.md
+---
