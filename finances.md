@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Finances
+sidebar:Finances
 ---
 
 ### Finances

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Events
+sidebar: Events
 ---
 
 ### Events 

@@ -1,15 +1,15 @@
 # Site navigation links
 - title: Home
-  url: /
+  link: /
 
 - title: Events
-  url: /events/
+  link: /events/
 
 - title: Newsletters
-  url: /newsletters/
+  link: /newsletters/
 
 - title: Finance
-  url: /finances/
+  link: /finances/
 
 - title: Comments
-  url: /comments/
+  link: /comments/

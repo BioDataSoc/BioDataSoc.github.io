@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Comments
+sidebar: Comments
 ---
 
 ### General Comments
