@@ -2,6 +2,9 @@ theme: jekyll-theme-minimal
 title: Welcome to the BioData Society Website!
 description: A Website for the BioData Society at Anglia Ruskin University
 logo: /docs/Bio-DataSoc.jpeg
+url: "biodatasoc.github.io"
+baseurl: ""
 
 twitter_username: aru_biodata
 github_username:  BioDataSoc
+email: biodatasociety@outlook.com"

@@ -1,3 +1,8 @@
+---
+layout: page
+title: Comments
+---
+
 ### General Comments
 
 We all need to acknowledge our achievements, this could be anything

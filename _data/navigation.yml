@@ -1,0 +1,15 @@
+# Site navigation links
+- title: Home
+  url: /
+
+- title: Events
+  url: /events/
+
+- title: Newsletters
+  url: /newsletters/
+
+- title: Finance
+  url: /finances/
+
+- title: Comments
+  url: /comments/
