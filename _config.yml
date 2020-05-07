@@ -5,6 +5,13 @@ logo: /docs/Bio-DataSoc.jpeg
 url: "biodatasoc.github.io"
 baseurl: ""
 
-twitter_username: aru_biodata
+twitter:
+  username: aru_biodata
+
 github_username:  BioDataSoc
+
 email: biodatasociety@outlook.com"
+
+defaults:
+- scope:
+  path: _docs
