@@ -1,10 +1,3 @@
----
-layout: page
-title: Newsletters
-sidebar: Newsletters
----
-
-
 # Welcome to the BioData Society's Trimester Newsletter/blog
 The purpose of this is make sure everyone is on the same page when it comes to
  university and society events, for mentors to know what their apprentices are up to
@@ -49,7 +42,7 @@ For the Bioinformaticians, this term is all IT based with the following modules:
 >
 > No Reading List has been released but there are plenty of online R tutorials and if you're desperate for a real book to hold then i suggest 
 >[Bioinformatics Data Skills by Vince Buffalo](https://www.amazon.co.uk/Bioinformatics-Data-Skills-Reproducible-Research/dp/1449367372/ref=sr_1_5?crid=1CDCUUVHA6V8X&dchild=1&keywords=bioinformatics&qid=1588768840&sprefix=bioinforma%2Caps%2C227&sr=8-5)
-> which goes through a wide range of information needed for a budding bioinformatician, though I would suggest get used for half the price, mine turned out to be brand new anyway.
+> which goes through a wide range of information needed for a budding bioinformatician with a short introduction to R using data from the 2006 paper ["The Influence of Recombination on Human Genetic Diversity"](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0020148) and the books [GitHub](https://github.com/vsbuffalo/bds-files), though I would suggest get used for half the price, mine turned out to be brand new anyway.
 > And finally, we do of course have DataCamp for all your coding needs.
 ---
 
