@@ -1,9 +1,3 @@
----
-layout: page
-title: Home
-sidebar: Home
----
-
 ![Image](docs/Bio-DataSoc.jpeg)
 
 ```print('Hello World!)```
