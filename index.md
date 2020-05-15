@@ -1,3 +1,5 @@
+|  [Home](README.md)  |  [News](newsletters.md)  |  [Events](events.md)  |  [Finances](finances.md)  |  [Comments](comments.md)  |
+
 ![Image](docs/Bio-DataSoc.jpeg)
 
 ```print('Hello World!)```
