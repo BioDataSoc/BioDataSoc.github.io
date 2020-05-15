@@ -1,9 +1,3 @@
----
-layout: page
-title: Comments
-sidebar: Comments
----
-
 ### General Comments
 
 We all need to acknowledge our achievements, this could be anything
