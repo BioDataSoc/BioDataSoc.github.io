@@ -11,7 +11,3 @@ twitter:
 github_username:  BioDataSoc
 
 email: biodatasociety@outlook.com"
-
-defaults:
-- scope:
-  path: _docs
