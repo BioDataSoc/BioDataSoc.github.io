@@ -1,4 +1,4 @@
-|  [Home](README.md)  |  [News](newsletters.md)  |  [Events](events.md)  |  [Finances](finances.md)  |  [Comments](comments.md)  |
+|  [Home](index.md)  |  [News](newsletters.md)  |  [Events](events.md)  |  [Finances](finances.md)  |  [Comments](comments.md)  |
 
 # Welcome to the BioData Society's Trimester Newsletter/blog
 The purpose of this is make sure everyone is on the same page when it comes to
