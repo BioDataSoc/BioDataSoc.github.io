@@ -1,4 +1,4 @@
-|  [Home](README.md)  |  [News](newsletters.md)  |  [Events](events.md)  |  [Finances](finances.md)  |  [Comments](comments.md)  |
+|  [Home](index.md)  |  [News](newsletters.md)  |  [Events](events.md)  |  [Finances](finances.md)  |  [Comments](comments.md)  |
 ### General Comments
 
 We all need to acknowledge our achievements, this could be anything
