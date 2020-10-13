@@ -210,6 +210,16 @@ analyse and interpret results
 > This does not include time required for coursework.
 ---
 
+#### Previous and Future Letters
+
+[Year-1 | Tri-3](docs/old_news.md)
+
+[Year-2 | Tri-1](newsletters.md)
+
+[Year-2 | Tri-2](docs/ooothefuture.md)
+
+[Year-2 | Tri-3](docs/morefuture.md)
+
 ---
 
 ##### More Notes
