@@ -212,13 +212,13 @@ analyse and interpret results
 
 #### Previous and Future Letters
 
-[Year-1 | Tri-3](docs/old_news.md)
+[Year-1-Tri-3](docs/old_news.md)
 
-[Year-2 | Tri-1](newsletters.md)
+[Year-2-Tri-1](newsletters.md)
 
-[Year-2 | Tri-2](docs/ooothefuture.md)
+[Year-2-Tri-2](docs/ooothefuture.md)
 
-[Year-2 | Tri-3](docs/morefuture.md)
+[Year-2-Tri-3](docs/morefuture.md)
 
 ---
 
