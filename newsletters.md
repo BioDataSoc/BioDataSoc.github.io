@@ -118,18 +118,98 @@ different cell types and organelles and their functions.
 > This does not include time required for coursework.
 ---
 
-2 - Computational Methods and Algorithms
+#### 2 - Principles of Genetics
 
->Builds sound knowledge of the application of algorithms in bioinformatics. 
->Basic algorithms are introduced via pseudocode.
->The data-structures required for efficient storage and processing of data will be introduced.
->Simple worked examples will be used to teach the core algorithms for sequence alignment,
->clustering and phylogenetics.
+We live in the age of genetics and genomics, with breakthroughs in our understanding of genetic diseases and potential cures
+regularly featured in the news. The pace of discovery in this field makes this an exciting time to be learning genetics. You will
+gain knowledge and understanding of the fundamental principles of genetics and how we can answer questions such as: How
+are genetic diseases inherited? How do scientists find out about complex diseases which are affected by both genes and
+environmental factors? How can you find out how common a genetic disease is in a population?
+You will discover how the study of genes offers a biologically-based explanation for morphological, physiological, and
+behavioural traits of an organism. You will gain insights into how genetics provides a mechanism for the generation and
+maintenance of variation; the raw material for evolution. We firstly consider the classical patterns of inheritance, building on
+concepts you will have covered in level 4. You will develop an understanding of the relationship between genotype and
+phenotype through an integration of concepts at the organismal, cellular and molecular levels. You will investigate gross
+structural chromosome mutations and the phenotypic consequences of these mutation, and will learn how classical and
+modern techniques are used for establishing the physical locations of genes. You will gain insights into gene function and the
+genetic basis of many diseases, and go on to look at how traits may be determined by many genes and how genes interact
+with environmental factors. You will learn to use mathematical methods to analyse genetic variation found in populations. You
+will learn how gene expression is regulated in the development genetics, and look the genetics of cancer.
+Modern tools of genetic research and analysis are incorporated throughout the module. Your understanding of genetic
+processes will be developed through a variety of problems, case studies, simple breeding experiments and other practicals.
+As well as gaining specific subject knowledge, this module helps you to develop a number of transferable skills including
+practical laboratory techniques and skills relevant to general employment including data collection, handling and presentation
+and report writing. You will have an opportunity to hear guest speakers talking about their careers in the field of genetics. The
+content of the module is an essential part of your training towards a career in biomedical science.
+
+#### Goals include:
+> Structure and function of DNA, RNA and proteins with regard to structure and function of genes and principles of
+inheritance
 >
->Reading list [HERE](https://rl.talis.com/3/anglia/lists/39AA2B2A-3D25-15E3-949D-45EE5CBB0799.html?lang=en-GB)
-with the one book suggested for purchase being:
-[Grokking Algorithms: An illustrated guide for programmers and other curious people](https://www.amazon.co.uk/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/ref=sr_1_1?dchild=1&keywords=Grokking+Algorithms%3A+An+illustrated+guide+for+programmers+and+other+curious+people&qid=1588767673&sr=8-1)
-which is a £20 picture book, so that's a bonus! It's also free at: [Grokking Algorithms](https://livebook.manning.com/book/grokking-algorithms/chapter-1/) with some of the chapters being audio too.
+>> Mendelian genetics including single gene, multigene and extranuclear inheritance, epistasis and pleiotropy
+>>
+>>Human pedigrees
+>>
+>> Gene mapping
+>
+> Population genetics
+>
+> Quantitative genetics
+>
+> Principles of genomic, transcriptomic and proteomic methods used to study human chromosomes and DNA
+>
+> Developmental genetics
+>
+> Genetic disorders with biomedical significance
+>
+>> Chromosomal mutations
+>>
+>> Cancer genetics
+>
+> Demonstrate a detailed knowledge of the nature of genes and
+chromosomes, the principles of inheritance, and the biological
+consequences of mutations.
+>
+> Demonstrate knowledge and understanding of polygenic and multifactorial
+traits within an individual, and genetic variation within populations, and how
+this relates to biodiversity
+>
+> Demonstrate knowledge and understanding of the techniques used to map
+genes to their chromosomal positions, and the role of genes in
+development, normal function and disease
+>
+> Work collaboratively with others to carry out and collect data from genetic
+experiments and then apply appropriate statistical tests in order to critically
+analyse and interpret results
+
+#### Assessed by:
+> Coursework 60% 
+>> Lab Report
+>
+> In-class Test - 40% weight
+
+#### Book list:
+> Concepts of Genetics - Very handy book but there are some cases where terminology isn't what you're expecting.
+>> This book will come up multiple time so may be worth purchasing in the future.
+
+#### Recommended Time Allowance:
+
+> 150 Hours for the Term
+>
+> 12.5 Hours per Week
+
+#### Minimum Time Allowance:
+
+> 34 Hours for the Term
+>
+> 2.8 Hours Per Week
+>
+> As we know however there is already more than
+> 3 hours of preparation for the week as it is.
+>
+> This does not include time required for coursework.
+---
+
 ---
 
 ##### More Notes
