@@ -8,44 +8,114 @@ The purpose of this is make sure everyone is on the same page when it comes to
 
 ---
 
-## First Newsletter - 17/04/2020
-First off, I'd like to say a big thanks you to everyone who is joining the
- society or is supporting its shear existence. To the managers, mentors and
-  members who have helped shape it thus far, Thank you.
+## Newsletter 2 - 13/10/2020
+Once again thanks to everyone joining the society and apologies for not informing you about our next moves.
+We are currently in talks with Sanger who would like to be our sponsors for events in the future (such as seminars)
+which is fantastic seeing as they are world leaders in genomic research.
 
 ---
 
 #### And now, the News...
-Apart from the global pandemic that is forcing us to all life as hermits,
- it looks as though much of university life will stay the same.
- 
-Exams have just been held and with no break the next term starts 
-11th May - 31th July 2020 and has been confirmed as online only:
- [Academic Calendar](https://web.anglia.ac.uk/curriculum/calendar3.phtml).
+Apart from the global pandemic that is still forcing us to all life as
+hermits and in small social bubbles...
+
+Many of us are working from our own space on out small bubbles with online
+laboratories and online lectures as University relies heavily on
+Microsoft Teams this year.
+
+In this time please make sure you look after your mental health and try
+something new and different every so often to keep that brain moving. 
+I for instance just made a TwitterBot (Terry the TwitterBot) whose sole purpose is to annoy
+people when i'm playing a game with that person, mostly because I need the advantage when playing PvP.
+
+Hopefully we can see people once again some day and we can all hate each other for
+the flood of "Haven't seen you since last year" jokes. Now back to university...
+
+[University-wide Academic Calendar](https://web.anglia.ac.uk/anet/academic/public/calendar_20-21.pdf).
  
 Because of COVID-19, the no detriment policy will continue to be in place.
-This is calculated as the average of your modules in the same level (e.g. Year 1 = Level 4)
+This is calculated as the average of your modules in the same level
+(e.g. Year 1 = Level 4, Year 2 = Level 5)
 as long as you get a pass mark for the assessments (40%).
 
 ---
 
 #### This Term
-For the Bioinformaticians, this term is all IT based with the following modules:
+For the Bioinformaticians (To be shared with Line managers and Mentors).
 
 ---
 
-1 - Mathematics and Statistics for Bioinformatics:
+#### 1 - Foundations of Cell Biology:
+
+Foundations of Cell Biology is designed to provide an introduction to the cellular basis of life, focusing on their nature and
+roles of different cell types, including animal, plant and microbial cells. The module provides students with a basic
+understanding of biological organisation and biochemical processes at the cellular level. As such Foundations of Cell Biology
+is a core module for students taking the Biomedical Science and Bioscience degree courses. The module introduces and
+examines the different types of prokaryotic and eukaryotic cells, their identifying characteristics properties and key structural
+differences. The role of viruses as cellular parasites is also considered. It also explores the basics of cell structure and
+function, focusing on cell membranes and organelles, cellular energetics, the cell growth and division cycle, paying particular
+attention to mitosis and meiosis. Understanding cell structure and function also requires a basic knowledge of the nature, roles
+and chemical structures of key biomolecules, namely carbohydrates, lipids, nucleic acids and proteins. As well as providing
+subject specific knowledge, relevant to biomedical sciences, this module helps develop a number of transferable skills
+including practical (laboratory) techniques and skills relevant to employment including literacy and numerical skills. Standard
+texts are available via the library and online companion website.
+
+This has also included a variety of visualisation techniques such as Chromatography, Electronmicroscopy and X-ray Crystalography.
+
+#### Goals include:
+> Demonstrate a knowledge and understanding the structural differences
+between viruses, prokaryotic cells and eukaryotic cells and the role of the
+major eukaryotic cell organelles.
 >
->Provides a sound basis in mathematics, statistics and analysis.
->You will develop a working knowledge of R, and will learn numerical data types.
->The module covers basic statistical concepts, including: mean; mode;
->standard deviation and variance. R will be used to explore biological datasets
->using techniques such as principal component analysis (PCA), regression and correlation analysis.
+> Describe the nature and organisation and basic structure of the genetic
+material in viruses, prokaryotic and eukaryotic cells and the activities
+taking place during the cellular growth and division cycle.
 >
-> No Reading List has been released but there are plenty of online R tutorials and if you're desperate for a real book to hold then i suggest 
->[Bioinformatics Data Skills by Vince Buffalo](https://www.amazon.co.uk/Bioinformatics-Data-Skills-Reproducible-Research/dp/1449367372/ref=sr_1_5?crid=1CDCUUVHA6V8X&dchild=1&keywords=bioinformatics&qid=1588768840&sprefix=bioinforma%2Caps%2C227&sr=8-5)
-> which goes through a wide range of information needed for a budding bioinformatician with a short introduction to R using data from the 2006 paper ["The Influence of Recombination on Human Genetic Diversity"](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0020148) and the books [GitHub](https://github.com/vsbuffalo/bds-files), though I would suggest get used for half the price, mine turned out to be brand new anyway.
-> And finally, we do of course have DataCamp for all your coding needs.
+> Describe the basic structure and functions of key macromolecules and the
+ways in which cells obtain and utilise energy.
+>
+> Make simple biological calculations and perform some of the basic
+laboratory techniques used in the handling, studying and identification of
+different cell types and organelles and their functions.
+
+#### Assessed by:
+> Coursework is split into the following:
+>
+> In-class assessments - 30% weight
+>
+> Practical report - 30% weight
+>
+> In-class Test - 40% weight
+
+#### Book list:
+> Essentials include:
+>
+> Principles of Cell Biology - A standard book for understanding Cell Biology and can easily be replaced with:
+> 
+> Essential Cell Biology
+
+> Recomended:
+>
+> Concepts of Genetics - Very handy book but there are some cases where terminology isn't what you're expecting.
+>
+> Practical skills in biomolecular sciences - Great for understanding the practical aspects of Biology and the methods which are best to use.
+
+#### Recommended Time Allowance:
+
+> 150 Hours for the Term
+>
+> 12.5 Hours per Week
+
+#### Minimum Time Allowance:
+
+> 34 Hours for the Term
+>
+> 2.8 Hours Per Week
+>
+> As we know however there is already more than
+> 3 hours of preparation for the week as it is.
+>
+> This does not include time required for coursework.
 ---
 
 2 - Computational Methods and Algorithms
