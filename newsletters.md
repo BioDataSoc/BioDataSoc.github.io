@@ -90,6 +90,8 @@ different cell types and organelles and their functions.
 > In-class Test - 40% weight
 > 
 > ![exam_CBB](docs/exam_CBB.png)
+>
+> Weighing Do not add up correctly ¯\\_(ツ)../¯, this is all taken from canvas.
 
 #### Book list:
 > Essentials include:
@@ -190,11 +192,11 @@ analyse and interpret results
 > Coursework 60% 
 >> Lab Report
 >
-> ![LR_PG](docs/Lab_reports_PG.png)
+>  ![Exam](docs/Exam_PG.png)
 >
 > In-class Test - 40% weight
 >
-> ![Exam](docs/Exam_PG.png)
+> ![LR_PG](docs/Lab_reports_PG.png)
 
 #### Book list:
 > Concepts of Genetics - Very handy book but there are some cases where terminology isn't what you're expecting.
